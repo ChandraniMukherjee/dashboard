@@ -1,0 +1,22 @@
+Header,Description
+AC_No,Assembly Constituency No
+Booth_No,Booth Number (Polling Station No)
+AE_21,Margin For AITC in Assembly Election 2021
+GE_19,Margin For AITC in General Election 2019
+AE_16,Margin For AITC in Assembly Election 2016
+GE_14,Margin For AITC in General Election 2014
+AE_11,Margin For AITC in Assembly Election 2011
+Hindu %,Percentage of Hindus
+Muslim %,Percentage of Muslims
+Christian%,Percentage of Christians
+Other %,Percentage of Others
+Sub_Caste 1,Percentage of Sub_Castes [Top]
+Sub_Caste 1 Percentage,Percentage of Sub_Caste 1 Percentages
+Sub_Caste 2,Percentage of Sub_Castes [Top]
+Sub_Caste 2 Percentage,Percentage of Sub_Caste 2 Percentages
+Sub_Caste 3,Percentage of Sub_Castes [Top]
+Sub_Caste 3 Percentage,Percentage of Sub_Caste 3 Percentages
+Sub_Caste 4,Percentage of Sub_Castes [Top]
+Sub_Caste 4 Percentage,Percentage of Sub_Caste 4 Percentages
+Sub_Caste 5,Percentage of Sub_Castes [Top]
+Sub_Caste 5 Percentage,Percentage of Sub_Caste 5 Percentages
